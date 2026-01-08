@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="Table1">
+  <Table>
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>   <Row>
+    <Cell><Data ss:Type="String">verbo</Data></Cell>
+    <Cell><Data ss:Type="String">papel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abnuir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acalentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acamaradar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acasalar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aceder</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aceitar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aconchegar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acordar2</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">admitir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ajustar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alcovitar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">altercar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alvissarar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amigar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amistar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">andar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aninhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">anuir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apalavrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aparceirar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aquiescer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arcar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arengar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">argumentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">argüir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">armar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arquitetar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assentir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atuar1</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">batalhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beijar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bisbilhotar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brigar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cabalar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cacarejar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cair</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cantar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cavaquear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ceder</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chorar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">coadunar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">colidir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">combater</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">combinar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comerciar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compactuar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comparticipar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compartilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compartir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">competir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comprazer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comungar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comunicar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">concertar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conchegar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">concordar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">condescender</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">condizer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">confabular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conferenciar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conflitar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conjurar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">consentir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conspirar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">consultar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contemporizar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contender</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contestar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contradizer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contratar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">convencionar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conversar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">convir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">copular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">coscuvilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cruzar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">debater</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">defrontar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deparar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desagregar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desapoiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descasar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desconvir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desdizer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desirmanar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desligar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desposar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desquitar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dialogar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">digladiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">discordar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">discutir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">disputar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dissociar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">divorciar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">emparceirar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encarar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encontrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encrencar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engrenar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enquadrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escaramuçar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esgrimir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esposar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estabelecer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estipular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">falar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">firmar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fofocar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">freqüentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">futricar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fuxicar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">galrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">garrular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gladiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gralhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">grazinar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guerrear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">harmonizar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hostilizar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ilidir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intrigar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">irmanar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">legiferar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">legislar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ler</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">linguajar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">litigar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lutar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">manobrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">maquinar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">matraquear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mesquinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mexericar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">militar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">molecar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">namorar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">namoricar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">namoriscar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">negociar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">obrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ombrear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">operar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ornar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">oscular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pactuar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palavrear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palestrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palrear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">papagaiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">papaguear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">papear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">paqueirar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">paquerar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">parlamentar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">parolar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">participar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">partilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pechinchar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pelejar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pleitear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">porfiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">praticar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">preparar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">proceder</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prosear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pugnar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">punir2</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">quadrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">querelar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">querer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rabular</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rebater</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recalcitrar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">redargüir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">refutar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">regatear</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">relaxar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">relevar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">replicar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">repudiar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">responder</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rivalizar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rixar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">separar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">subscrever</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tagarelar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tecer</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">topar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">trabalhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">traçar1</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tramar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">transigir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tratar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">treler</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">urdir</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">virar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">zarelhar</Data></Cell>
+    <Cell><Data ss:Type="String">Actor</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

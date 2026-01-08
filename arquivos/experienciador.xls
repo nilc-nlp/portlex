@@ -1,0 +1,3570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="Table1">
+  <Table>
+   <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>   <Row>
+    <Cell><Data ss:Type="String">verbo</Data></Cell>
+    <Cell><Data ss:Type="String">papel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abaixar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abalar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abanar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abater</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abatocar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abemolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abençoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abespinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abocanhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abocar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abominar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aborrecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abrandar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">abrasar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acalentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acalmar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acalorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acampanar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acanavear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acanhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acariciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acarinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">achar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">achatar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acidentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acirrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aclarar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acordar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acoroçoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acovardar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">acreditar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adoçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adoecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adoentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">adotar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afeiçoar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aferar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aferrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aferroar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afetar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afigurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afligir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afobar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afoitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">afrouxar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agaloar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agarrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agastar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agatanhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agoniar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agonizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agradar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aguçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">agüentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ajoujar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alancear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alarmar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alborotar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alegrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alertar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alevantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aligeirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aliviar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">almejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alterar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alucinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alumbrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alvoroçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">alvorotar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amaciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amainar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amaldiçoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amansar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amarfanhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amargar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amargurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amassar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ambicionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ameaçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ameigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amenizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amolecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amolestar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amortecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amparar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">amuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">analisar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">anelar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">angustiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">animar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aniquilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">anotar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ansiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">antolhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apaixonar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apalpar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apertar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apetecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apiedar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apimentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aplacar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apontar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apoteosar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aprazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apreciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aprofundar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aprovar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apunhalar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apunhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">apurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aquebrantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aquecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arder</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">argüir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arranhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrasar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrebatar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrecear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrefecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrefentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrenegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrepiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arrombar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">arroubar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aspirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assanhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assediar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assetear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assistir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">assustar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atassalhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atentar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atenuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ativar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atocaiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atormentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atrair</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atrapalhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atribular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atritar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">atumultuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aturar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">augurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">autorizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">avergonhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">averiguar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">avexar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aviltar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">avistar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">avivar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">aviventar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">azedar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">azougar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bacorejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">badalar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bafejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bajular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">barafustar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">beijar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bem-querer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bendizer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brandear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brincar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">brutalizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">bulir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">buscar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cacetear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">calafriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">calcar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">calmar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cansar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">carecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cariciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">carpir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">catingar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cativar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">causticar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ceder</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">censurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chatear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cheirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chispar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chocar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">chorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cismar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cobiçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">coçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cofiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cogitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">colar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comichar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comover</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comprazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">comprimir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compulsar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">compungir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">concentrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conculcar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">concutir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">condenar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">condoer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conflagrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">confortar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">confundir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conhecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conquistar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">consagrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">considerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">consolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">constranger</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">consumir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contrariar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contristar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">contundir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">conturbar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">convulsar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">convulsionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">correr</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">corrupiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">crer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">criticar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cruciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">crucificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">cultuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">curtir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">debuxar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">decepcionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">declinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">defender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">defraudar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">degelar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">degradar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deixar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deleitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">delibar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deliciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">demandar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deparar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deplorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deprecar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deprimir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">derrancar2</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">derreter</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desacorçoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desacordar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desacoroçoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desadorar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desafligir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desagradar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desagradecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desalentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desancar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desangustiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desanimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desapertar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desapontar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desapoquentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desaprovar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desassossegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descair</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descobrir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desconfiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desconfortar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desconsolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descontentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descoroçoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descortinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">descrer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desdenhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desemburrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desempedernir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desencantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desencorajar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desencruar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenfadar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenfastiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenganar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenjoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenraivecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desenrubescer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desensoberbecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desentediar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desentristecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desesperançar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desesperar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desestimular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desfalecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desfazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desfibrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desgostar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desiludir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desinquietar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desinteressar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">deslumbrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desmaiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desmiuçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desmotivar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desonestar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desonrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">despertar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">despiolhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desprazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">despreocupar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desprezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desquerer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">desvelar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">detectar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">detestar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">devassar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dever</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">devorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">diferenciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">digerir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dilacerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">diluir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">diminuir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">discernir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">discorrer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">discriminar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dissecar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">distinguir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">distrair</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ditar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">divertir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">divinizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">divisar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">dourar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">duvidar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">edulcorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">eletrizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">elevar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">elogiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embalar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embaraçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embasbacar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embatucar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embeiçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embelezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embevecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">emborrascar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embrandecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embravecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embriagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">embruscar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">emburrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">emocionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">empalecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">empalidecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">empolgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">empunhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enaltar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enaltecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enamorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encabular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encadear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encarar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encarecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encarniçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encasar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encasquetar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encolerizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encomiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encorajar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encostar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encrespar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">encumear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enervar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfadar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfadonhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfarar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfastiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfeitiçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfermar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfurecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enfuriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engodilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engolir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engraçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engrandecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engrolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">engrossar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enjeitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enjoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enlevar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enlutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enobrecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enoitecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enraivar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enraivecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enternecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entibiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entontecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entortar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entreter</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entristecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entuchar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entupir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entusiamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">entusiasmar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">envergonhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">envesgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enviesar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">envilecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">envolver</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">enxergar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">eriçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">erriçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esborrachar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esbracejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escabujar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escachar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escalavrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escaldar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escalpelizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escandalizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escandecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escarafunchar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escarnecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escarvar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escavar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escoriar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escorraçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escravizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escrutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">escutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esfolar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esforçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esfregar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esfriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmechar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmerilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmerilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmiuçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmiudar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esmorecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espairecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esperançar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espernear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espernegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espertar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espevitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espezinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espicaçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espiolhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">espreitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esquadrinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esquentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estigmatizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estilar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estimular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estomagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estorvar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estranhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estrebuchar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estremecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">estudar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">esvaecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exalçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exaltar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">examinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exasperar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">excitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">excruciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">execrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exortar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">expiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">explorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exprobar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">extasiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">extremar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exulcerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">exultar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">falar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">falecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">falsear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">farejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fariscar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fartar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fascinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fatigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">feder</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ferir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ferrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">figurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">flagelar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">flechar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">focalizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">focar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">folgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">folgazar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">frechar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">frenesiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">friccionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">frustrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fumegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">funestar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">fustigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gabar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gelar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gemer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">girar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">glorificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">glosar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gostar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">gramar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">guardar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">heroificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">hipnotizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">horripilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">horrorizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">humildar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">humilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">identificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">idolatrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">iludir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">iluminar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ilustrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">imaginar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">imbuir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">impacientar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">impor</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">importunar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">impregnar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">impressionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">incendiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">incentivar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">incitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">incomodar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inconfortar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inculcar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">incutir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">indagar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">indignar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">indispor</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">induzir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inebriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">infiltrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inflamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">influir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">infundir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inimizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inquietar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inquirir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">insinuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inspecionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inspetar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">inspirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">instilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">insuflar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intencionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">interrogar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intimidar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intoxicar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">intrigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">invejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">investigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">irar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">irritar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">jeremiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">jogar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">jubilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">judiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">julgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lacerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lacrimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lagrimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lamentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lamuriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lastimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">laxar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lembrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lenificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lenir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lesar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lesionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">levantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">localizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">louvar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">lustrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">macerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">machucar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">magnetizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">magnificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">magoar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">malear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">maliciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">malquerer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">malquistar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">maltratar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">manear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">manejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">maquinar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">maravilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">marcar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">martirizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">massagear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">matutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mazelar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">meditar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">melancolizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">melindrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">menos se esperava</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">menosprezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mentalizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">meter</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mimar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mimosear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">minguar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ministrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">minorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mitigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">miudear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">moderar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">moer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">molestar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">molificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">morder</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mordicar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mordiscar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">morrinhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mortificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">mover</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">namorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">necessitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">nobilitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">notar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">obcecar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">objurgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">obscurecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">observar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">obumbrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">odiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ofender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ojerizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">olhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">oprimir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">opulentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">orar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ornar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">oscular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">outorgar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ouvir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">padecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pairar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">palpitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">paparicar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pascer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">passar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pastar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pedir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">penetrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">penhorar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pensar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perceber</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">percorrer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perguntar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">periclitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perigar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pernear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perquirir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perrengar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perrenguear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perscrutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">perturbar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pesquisar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">piançar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">picar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">piriricar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pirraçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pirracear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pisar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">placitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">plantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pombear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">postergar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prantear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">precisar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">preconizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prejudicar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prensar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">preocupar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">presenciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pressupor</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prestigiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">presumir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">pretender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">procurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">profligar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">profundar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">projetar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">promover</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prostrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">proteger</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">provocar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">prurir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">quebrantar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">quebrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">querer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">raivar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">raspar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rastejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ratar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ratificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rebaixar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rebater</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reclamar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reconhecer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recorrer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recrear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">recusar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">redopiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reduzir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">referver</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">refocilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">refrescar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">refrigerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">refutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">regalar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">regozijar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rejeitar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">relutar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">remitir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">remoer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">remorder</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">render</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">renegar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">renunciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reparar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reprochar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reprovar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reputar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">requerer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">resfriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">resguardar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">resistir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">respeitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">retorcer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">retundir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">revenerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">reverenciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">revirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">revoltar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rezar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">roçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rodar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rodopiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">roer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rogar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">rolar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">saborear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sacudir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sancionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sangrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">satisfazer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">seduzir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">segurar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sensibilizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">seviciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">simpatizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sindicar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sobalçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">soberanizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sobrecarregar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sobredoirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sobredourar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sobressaltar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">socorrer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">soluçar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sondar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">soprar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suavizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">subentender</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">subir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sublimar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">subscrever</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sufocar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sugerir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sugilar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supliciar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">supor</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suportar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">susceptibilizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suscetibilizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suscitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suspeitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">suspirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">sustentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tascar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tatear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">temer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">temperar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tencionar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tentar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tentear1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ter</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">testemunhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tirar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tocaiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tocar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">toldar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tolerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tolher</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tomar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">torcer</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">torturar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">traçar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tragar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tranqüilizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">translumbrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">transportar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tratear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">traumatizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">travar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tresandar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">trilhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">trincar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tripudiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">triunfar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">tumultuar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ulcerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ulular</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">unhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">unir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vadiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vagir</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vasculhar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">velar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">venerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ver</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">verberar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">verificar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">versar1</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vetar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vexar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vigiar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">visitar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vistoriar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">visualizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vituperar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">voltear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">voltejar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">volutear</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vulcanizar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">vulnerar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">zangar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">zingrar</Data></Cell>
+    <Cell><Data ss:Type="String">Experiencer</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
